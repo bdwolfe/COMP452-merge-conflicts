@@ -8,15 +8,20 @@ Alex Hemmerlin
 Ben Raduns
 
 Vivo
-Fake Person
-John Doe
-Jane Doe
+Ethan Kesterholt
 
+Liam Grossman
+Austin Hensley
 
 Orbital
-
+Nate Kuhns
+Evelyn Hutchins
+Abigail Kiser
+Christian Abbott
 
 Let them cook
+David Koslowsky
+Andrew Marston
 
 
 Help.gcc.edu
