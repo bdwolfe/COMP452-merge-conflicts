@@ -3,33 +3,27 @@ EventSync
 
 
 Spraying Systems
-Brayden Stuchell
-See Something Spray Something
-Nathan Striebel
 Alex Hemmerlin
+
 Ben Raduns
 
 Vivo
-Ethan Kesterholt
-
-Liam Grossman
-Austin Hensley
-
-Orbital
-Nate Kuhns
-Evelyn Hutchins
-Abigail Kiser
-Christian Abbott
-
-Let them cook
-David Koslowsky
-Andrew Marston
-
-Help.gcc.edu
-Not Real
-An Imposter
+Fake Person
 John Doe
 Jane Doe
+
+
+Orbital
+
+
+Let them cook
+
+
+Help.gcc.edu
+Alex
+David
+Hayden
+Nathan
 
 
 Fresh Start
