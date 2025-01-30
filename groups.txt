@@ -3,6 +3,8 @@ EventSync
 Josh Minnich
 Allison Harnly
 
+Will Segulin
+
 
 Spraying Systems
 Brayden Stuchell
@@ -28,10 +30,11 @@ David Koslowsky
 Andrew Marston
 
 Help.gcc.edu
-Hayden Wehrman
+Alex Zeilstra
 Nathan Cacioppo
+Hayden Wehrman
 David Le Roux
-Alexander Zeilstra
+
 
 Fresh Start
 
